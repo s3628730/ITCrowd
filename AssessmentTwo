@@ -90,3 +90,122 @@ the newest and the ‘coolest’ future technologies. My background in IT is min
 than that and my own research to keep updated with the growing market.
 
 
+Industry Data
+Job titles in our group
+• Clinical Psychologist
+• Web Developer
+• AI Engineer (x2)
+• Full Stack Application Developer
+
+Demand ranking from employers
+1. AI Engineers
+2. Web Developer
+3. Full Stack Developer
+4. Clinical Psychologist (not listed and unable to find comparison to other roles)
+
+General Skills
+• Communication
+• Problem Solving
+• Troubleshooting
+• Analytical
+• Time Management
+• Team Work
+• Organisational
+• Planning
+
+IT-Specific Skills 
+• HTML / CSS / Javascript
+• General purpose programming language (Java, Python)
+• SQL
+• Windows / Mac experience
+• Data Structures / Algorithms
+• Deep Learning Framework (TensorFlow)
+• Software Design experience
+• Github experience
+
+IT-specific skills ranking
+1. SQL
+2. Javascript
+3. General purpose programming language (Java)
+4. Microsoft Windows experience
+5. Data structures / Algorithms (software engineering)
+6. Deep Learning Framework (software engineering)
+7. Github experience
+8. Software Design experience
+
+General skills ranking
+1. Communication
+2. Problem Solving
+3. Organisational
+4. Team Work
+5. Troubleshooting
+6. Planning
+7. Time Management
+8. Analytical
+
+Three highest IT specific skills not in our skillset
+1. Project Management
+2. SAP
+3. Business Management
+
+Three highest general skills not in our skillset
+1. Writing
+2. Detail-Oriented
+3. Creativity
+
+The opinion of the group on their roles has not changed. Everybody has chosen these roles because they are passionate about that particular area. Just because some data shows it may not be the most sought after or popular doesn’t mean we shouldn’t do it.
+
+IT Work
+Software Engineer
+
+Links:
+Day in the life of a Software Engineer at Pinterest
+https://www.youtube.com/watch?v=cynVxO6BNpQ
+Day in the life of a Software Engineer 
+https://www.youtube.com/watch?v=wQbhpAmz2f8
+
+A day in the life of a software engineer is a busy, but exciting one. Health tends to be of high priority, so eating healthy and exercising is a must. Software Engineering companies tend to be flexible on work times (starts and finishes) but the expectation is that you still complete all your work. The first task of the day tends to be checking emails, this is to ensure there is no problems that require immediate attention, or a shift in the days plan. Somewhere around the middle of the morning the team will get together and have what is known as a ‘stand up’. This is a meeting where everybody in your team, including managers stand in a circle, and communicate the following information to each other:
+• Goals for the day
+• What you plan to work on for the next 24 hours
+• What you have been working on for the past 24 hours
+• If you have any blockers (anything stopping you from continuing on a project)
+• Seeking any advice or support from team members
+The main advantage of the stand up is to make everybody aware of where you are at, and if they can help. Sometimes they might be the reason for you having a blocker, and might be able to directly fix it post meeting. In some situations after the stand up you may break off into smaller groups to discuss further some of the information that was presented in the stand up.
+Communication is of vital importance and seems to take up a lot of a software engineers day. Because there is so much collaboration on projects, there is a lot of meetings to be had each day, where you can help others, or recieve help as you need it.
+Meetings can range from project meeting, to whole team meetings, to one-on-one meetings to discuss personal development. In some businesses some meetings will be specifically for improving upon technical knowledge and rebounding ideas of each other to learn productively. 
+From a technical standpoint, throughout the day you may schedule time to tasks such as; solving algorithmic problems, answering business related questions, code reviews, design reviews, peer reviews, meetings,  troubleshooting or bug fixing. 
+As there is so much going on prioritising is very important, and scheduling time for this alone will go a long way to making your day a lot smoother. 
+
+
+IT Technologies
+
+Machine Learning
+The idea of Machine Learning began from the theory that computers can learn from recognising patterns without having to be programmed to do it, in a bit more depth; the computer uses algorithms to autonomously learn from data and information its given, it does not have to be explicitly programmed, it can adapt and improve its algorithms on its own. Machine Learning is known as a sub-set of Artificial Intelligence. 
+The origins of Machine Learning can be dated back as far as ‘The Turing Test’, developed by Alan Turing in 1950. The test is designed to determine if a computer has real intelligence, to pass the test the computer must fool a human into believing it is also human. 
+Since 1950 many milestones have been achieved in this subset, to list a few:
+• In 1962 Arthur Samuel wrote the first computer learning program. It was used by the IBM computer to play the game of checkers, and the more it played, the better it became by studying which moves formed winning strategies and then incorporating them into its program.
+• In 1967 the ‘nearest neighbour’ algorithm or the ‘travelling salesman problem’ as it is known today, was developed. This program allowed the computer to begin using basic pattern recognition, to map the route for a traveling salesman. The idea was to start in a random city but ensuring every city is visited using the shortest possible route.
+• In the 1990’s an important change in direction occured. Machine Learning moved from a knowledge-driven approach to a data-driven approach(#ref). Programs were developed for computers to analyze large amounts of data and to then learn from the results.
+• In 2006 the term ‘Deep Learning’ was coined by renowned computer scientist Geoffrey Hinton. 
+After the bursts of progress between 1950 and the late 1980’s momentum in Machine Learning did slow for some time. But since 2010 momentum has been regained and some big steps have been taken. 
+
+Currently the most impressive feat performed by Machine Learning was when Google’s artificial intelligence algorithm (known as AlphaGo) beat a professional Go player. The reason this is so significant is because GO is openly considered the world’s most complex board game.
+
+Machine Learning algorithms are used widely in today’s society. Examples include:
+• The finance industry where algorithms analyse data to prevent fraud or identify important insights that help investors to know when to trade.
+• The transportation industry where algorithms are used to identify patterns in traffic data to help make routes more efficient or predicting potential problems. 
+• In the healthcare industry algorithms can be used to help medical experts analyse large amounts of data to identify patterns or issues that may lead to improved diagnosis and treatment of patients.
+• And ofcourse, it is used in the area self-driving vehicles. Machine learning algorithms are used to find solutions to challenges as they arise in the development of the vehicles. The data is gathered using a range of sensors in the car, which are controlled by the ECU.
+
+The future of Machine Learning is very bright and there are so many new and innovative solutions coming that it’s just not practical to list them all, so I will try and list what I believe are the most important ones. It is suggested that the healthcare industry will be adapted heavily with machine learning algorithms. Adaptations include using algorithms to help prevent certain diseases and cancers, which is vitally important to the future of our society, another area will be in the development of more intelligent prostheses.
+Another industry that will benefit greatly from these algorithms is the agricultural industry. In the future expect to see algorithms used to assess crop and soil health, to manage agricultural robots to perform farming tasks, and even predictive analysis to optimize business growth, and crop growth.
+
+I think the main reason all this is becoming possible is because of the rapid growing interest in the field of Machine Learning, which is being driven harder than ever because of massive computer hardware improvements in recent times, which in turn has allowed us to collect more and better data than we have ever had before, which in turn leads to better algorithms and better application of Machine Learning.
+
+What is the likely impact?
+As stated above the potential impact of Machine Learning on the world is likely to be huge, but mostly in a positive direction. It is likely that there will be many changes, but to generalise a bit, humans will be doing less manual tasks, which will be done by algorithms, as they are faster and more accurate than us. In turn humans will spend more time interpreting results and implementing new procedures, or products based on the analytical results from the algorithms they use. Society will likely see a shift in job aspirations with the younger generations towards data analysis and sciences, programming will become a staple in schools (if it isn’t already), and overall we will hopefully become more efficient as a race. A lot of jobs will become redundant but lots more possibilities will open up and areas we haven’t even created yet. I think the most affected humans will be generation X, because they will be closer to retirement, and if their manual jobs become redundant they won’t have the time, or likely the understanding in most cases to make the shift to data and computer sciences.
+
+How will this affect you?
+As I am a information technology student with strong interests in Machine Learning and Artificial Intelligence, this shift will only give me more opportunities career wise. For me I think the most valuable contribution I could make through machine learning is giving back through the healthcare sector. There is so much momentum and opportunity to save lives through computers and algorithms, and with an ageing population in Australia especially we will see an increase in a need for more efficient treatment plans and diagnosis processes. Another area I could see myself dealing with machine learning would be in the sports industry, maybe working with a professional team in AFL, using algorithms to develop winning plays and player strategies, to improve overall team performance week to week. This is a feasible idea because all players wear tracking devices in game and a company called Champion Data tracks everything about the players, from movement patterns to speeds to rest times to even hot and cold zones, all of which could be very useful in a machine learning environment.
+
+
