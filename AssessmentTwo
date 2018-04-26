@@ -43,15 +43,8 @@ Anna personal information
 Name: Yen Hai Tran
 Student number: S3729125
 Web: www.annatran.net
-
-I have moved to Australia from Vietnam a year ago and as you can guess, I speak both Vietnamese and English. I love Yoga and I learnt Yoga a long time ago but still keep practising it as it helps boost both my health, my energy and my feelings. I would recommend you give it a try too.
-I have a background in telecommunications and have worked in the industry for several years, I am passionate about IT, that why I have decided to enroll in the Bachelor of Information Technology program in RMIT and would like to pursue my career in that field.
-I always enjoy keeping up with latest technologies in the Information Technology field. I like to tinker with my computer, to learn about how components in an IT system work together. I also love to build my own applications that can fulfill my own needs, as well as be beneficial to my friends and other people. The more I play with IT, the more my love for it grows, and I decided it is time to go back to the University to follow my passion.
-
-My previous job as a system administrator in a telecom company in VietNam. Currently, I'm working as a casual technical support for Sequel Home Based Care, an aged care company. The company has performance issues in their client management application, which I have fixed, and have learnt some new knowledge and experience in SQL server management.
-
-My idea job is the Full Stack Application Developer, which requires contributions in all levels of a web application, from back end and database to front-end. I like to have a complete picture of a product I build, to understand all technical aspects of the application, and contribute to all phases of the project, so a full-stack developer position is appealing to me. In addition, the role requires a lot of collaborations with other engineers, designers and product owners. I love interacting with people and exchange ideas, so this is another part that makes the job interesting to me. Moreover, the job requires a high standard for implementation. I always think that it is important to produce good quality code that is maintainable, not some spaghetti code that is likely to become technical debt in the future. I believe that working in a place with a high standard of code quality will help me advance my skills, learn from the team, and further develop my career.
-
+I have moved to Australia from Vietnam a year ago and as you can guess, I speak both Vietnamese and English. I love Yoga and I learnt Yoga a long time ago but still keep practising it as it helps boost both my health, my energy and my feelings. I have a background in telecommunications and have worked in the industry for several years. I always enjoy keeping up with latest technologies in the Information Technology field. I like to tinker with my computer, to learn about how components in an IT system work together. I also love to build my own applications that can fulfill my own needs, as well as be beneficial to my friends and other people. The more I play with IT, the more my love for it grows, and I decided it is time to go back to the University to follow my passion. I'm currently working as a casual technical support for Sequel Home Based Care, an aged care company. The company has performance issues in their client management application, which I have fixed, and have learnt some new knowledge and experience in SQL server management.
+My idea job is the Full Stack Application Developer, which requires contributions in all levels of a web application, from back end and database to front-end. I like to have a complete picture of a product I build, to understand all technical aspects of the application, and contribute to all phases of the project, so a full-stack developer position is appealing to me.
 Test outcome:
 Myers-Briggs test result: Introvert Sensing Feeling Perceiving - ISFP: The Adventure
 Learning style test result: Visual learner
@@ -176,6 +169,21 @@ Meetings can range from project meeting, to whole team meetings, to one-on-one m
 From a technical standpoint, throughout the day you may schedule time to tasks such as; solving algorithmic problems, answering business related questions, code reviews, design reviews, peer reviews, meetings,  troubleshooting or bug fixing. 
 As there is so much going on prioritising is very important, and scheduling time for this alone will go a long way to making your day a lot smoother. 
 
+Security Engineer - Anna
+Reference lists:
+https://www.reliaquest.com/blog/day-life-reliaquest-security-operations-center-engineer/
+https://www.splunk.com/blog/2017/01/27/day-in-the-life-of-a-security-analyst-part-1.html
+https://www.2-sec.com/2015/06/day-life-cyber-security-professional-tim-holman-writing-information-week/
+
+A security engineer can be an in-house resource, or work as a consultant for other customers. For the latter case, for a new customer, the typical tasks usually start with an initial onboarding process, where the engineer conducts an initial assessment of the customer’s current IT system by reviewing the security infrastructure and policies, and how critical resources are performing and how they are monitored. He or she then produces a report of the assessment and any recommendation or action items to follow to fix or improve the security of the system. 
+Then depending on the contract, would be routine maintenance, where the security engineer keeps monitoring the system with industry or custom tools and programs, response to security incidents in a timely manner, to ensure the system is running smoothly and securely.
+Things will get busier when there is a major incident or breach where data is stolen or destroyed. The security engineer needs to take action immediately, usually as a team, to resolve the problem as soon as possible. It usually involves fixing the flaws causing the incidence, updating the system with latest patches, recovering data, and perform risk analysis that other teams can base on to follow up with their actions.
+When things are not as busy, they would often spend time on research and development by keeping up with the latest security news and technologies, learning new techniques or spending time in labs, trying to break things to test their security. Some find this the most exciting part of their jobs. This usually results in new or improved security solutions for the system that help make it more stable and secure against future threats.  
+During the initial onboarding stage, they work with customer teams, lead analysts, and the delivery managers to develop expectations for monitoring and service level agreements (SLAs). As the first point of contact for the customer in the routine maintenance process, they often work closely with customers and other team members to identify and troubleshoot any detected vulnerabilities and security threats.
+Most of the time, they spend on working at the company office. Sometimes, they are out to attend security conferences or industry events or conduct seminars for transferring knowledge at customer sites.
+Because of the nature of network attacks are unpredictable, the most challenge of the security engineer is the capacity to quickly adapt and come up with a solution in a timely manner as there was no way to take control all the data and threats.
+Moreover, researching and developing new techniques and policies to prevent future incidents is also a huge challenge for them, in particular and in general for the cyber security industry, the security engineers have to constantly keep up with the latest exploits and attacks as well as apply latest technology to come up with efficient security solutions.
+
 
 IT Technologies
 
@@ -227,4 +235,38 @@ Software Engineer References:
 MaddyTechTV. (2018). Day in the life of a Software Engineer at a Tech company. Available: https://www.youtube.com/watch?v=cynVxO6BNpQ. Last accessed 19 April 2018.
 
 Morgan, S. (2018). A Day In The Life Of A Software Engineer. Available: https://www.youtube.com/watch?v=wQbhpAmz2f8. Last accessed 19 April 2018.
+
+Blockchain and cryptocurrencies - Anna
+
+Blockchain is a technology that powers cryptocurrencies like bitcoin and Ethereum. It provides a distributed system which is basically a digital ledger that can record transactions between two parties in an efficient, verifiable and permanent.
+The system is secure by design, in that identical blocks of information are stored across its network in a decentralised manner and there is no single point of failure. The robustness of the technology, together with its transparency – everyone can access the record transactions publicly and verify them – and other strengths, have made Blockchain one of the most current influential and promising technologies with a lot of potential to disrupt or replace many traditional industries and businesses.
+
+The blockchain is made up by a network of ‘nodes’, computers connected to the blockchain network to perform tasks of validating and relaying transactions, with the incentive to be possibly rewarded by earning the cryptocurrency of the network. Unlike the traditional model, this is a peer-to-peer network requiring no central servers or any intermediate nodes to authenticate or approve transactions.
+Thanks to its underlying cryptography and hashing techniques, it is very difficult to tamper the transactions. The decentralised structure makes it incorruptible and almost unhackable. Not only transaction information is publicly accessible, but also the implementations are mostly open source for public scrutiny. All these things have made blockchain a platform for truth, where everyone can trust it. This is an important point that made cryptocurrencies possible and helped blockchain become popular in the recent years.
+
+Blockchain, as a technology, is evolving quickly. First introduced with bitcoin, as innovative as it was, it came with some problems. Transactions can take a long time to finish which is undesirable in many cases. It also requires a lot of computational power and energy from the nodes. New technologies have emerged, particularly with Ethereum or some other new cryptocurrencies, have made the transactions faster and more robust.
+The new technology also made Ethereum not just a cryptocurrency but also a platform, where other forms of transactions can be made, and helps enable smart contracts which can be applied in many financial and business transactions.
+Blockchain is expected to continue to evolve quickly and be mature enough to be popular in many traditional services in the next three years.
+
+At the moment blockchain is mostly used in cryptocurrencies, where it acts as the underlying technology that allows two parties to send and receive money in digital format using public and private key pairs.
+However, blockchain, with its innovative features, is also being applied in the financial and banking sector where traditional methods are not very efficient, such as to speed up cross border payments, reduce fraud, enable smart contracts and real-time point-to-point transfer of funds between financial institutions and thus remove frictions and accelerate settlement.
+
+As more people are realising the benefits and potential of blockchain and are investing heavily into it, blockchain is expected to also disrupt or revolutionise IT sectors such as cloud computing as well as traditional industries such as shipping industry, with big names like Maersk and Hyundai are testing blockchain in their logistic network and transport network, according to Bloomberg.
+The nature of blockchain, as a great place to store, retrieve and verify information, will also allow other information related fields such as supply chain management, copyright registration, insurance industry, logistic industry, online voting, managing medical records. Some companies such as Samsung and IBM are also looking into applying blockchain into Internet of Things, to create a decentralised network of IoT devices. The combination of two of the biggest technologies are expected to be result in a lot of innovation that may help revolutionise even more fields and hopefully will help improve the quality of life of many people.
+
+What is the likely impact? Not finished
+As mentioned above, businesses and operations based on blockchain technology get many benefit from cost saving to reducing processing delays caused by traditional methods, prevent single point of error as well as guarantee the integrity of data stored on the system. This technology will have a significantly impact on the tradition financial industry and ecommerce cross-border trading. Many banks are interested in this technology because of the potential to simplify and improve the efficiency of the current complex and expensive system.  System based-on the blockchain will automate processing payment transactions instead of using human involvement processing.  This will make a huge redundant on the front-office staff of jobs in banks and commercial trading offices.
+
+How will this affect you? Not finished
+This technology really changed my mindset in thinking of construction of database system. This let me recognise an alternative method for storing data secure and think of the new generation of database system. In my opinion, beside of advantages of the blockchain technology, it’s also have downsides in term of requiring a number of nodes distributed in the system large enough to increase the security of the system. The larger system is, the more powerful nodes required in the system for solving problem related to validate transactions and adding new node into the block to maintain the information processing speed. Users including me is the one who receive more benefits from this technology, they have many options in choosing upcoming services with reasonable cost. As a IT student aimed to be a software developer in future, I’m able to create a small private blockchain, in which I can clearly understand the mechanism of blockchain in order to implement for my idea in creating a system to manage digital certificates of students in education system, that can be verified via blockchain network.
+
+Reference for Blockchain
+https://en.wikipedia.org/wiki/Blockchain
+https://blockgeeks.com/guides/what-is-blockchain-technology/
+https://www.mckinsey.com/industries/high-tech/our-insights/how-blockchains-could-change-the-world
+https://www.digitaltrends.com/computing/what-is-a-blockchain/
+https://www.ibm.com/blockchain/financial-services/
+https://www.bloomberg.com/news/articles/2018-04-18/drowning-in-a-sea-of-paper-world-s-biggest-ships-seek-a-way-out
+https://futurethinkers.org/industries-blockchain-disrupt
+ 
 
