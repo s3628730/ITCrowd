@@ -68,8 +68,9 @@ My sister was also another reason why I definitely pinned on this course because
 My IT experience is introductory level only as I have only done and graduated from Diploma of IT, however I'm working towards to learning more in depth of what I had done in the diploma to pursue my interest and follow my sister's footsteps.
 	
 Test Outcomes:
-	Myers Briggs Result: Introverted, Intuitive, Feeling, Prospecting, Turbulent.
-	VARK Results: Visual = 4; Aural = 4; Read/Write = 6; Kinesthetic = 10;
+Myers Briggs Result: Introverted, Intuitive, Feeling, Prospecting, Turbulent.
+VARK Results: Visual = 4; Aural = 4; Read/Write = 6; Kinesthetic = 10;
+Creativity Score = 48.89(Below Average)
 	
 
 Ideal Job
@@ -229,6 +230,38 @@ The most challenging aspect of the life of a pro gamer is that to perfect your s
 This can clash with their other commitments such as work and schooling. 
 Pro gamers may have to give up a priority to make time to practice if they truly wish to succeed in the industry.
 
+Web Developer - Edward
+Everyday life of a web developer consists of staying healthy everyday however there are times where they would set strict length of time
+to get some rest but overall just enough to get them going for the day if needed, depending on the importance of tasks needed to be 
+accomplished and also waking up early in the mornings to work on projects assigned by the project manager or in some cases where there 
+are also freelancing web developers would be given jobs from their clients on the objective of their website, web developers will take 
+that time to develop the applications during their everyday life just as similarly to regular web developers, while the only difference is the workplace. 
+Regular Web Developers work at their office or workshop while minimally works at home while Freelancers work at home and use their home as a personal workspace.
+The job of a IT Web Developer would consists of building E-Commerce stores, making website template designs or data cleansing list of customer products which would be uploaded 
+to stores but it can also vary to databasing products into a catalogue and many more. 
+
+Web Developers often vary their interactions from project managers of their team to general public or important clients, 
+they would discuss details of the project and the client would approach them and ask for certain work to be completed. 
+Face to Face approach would usually be a freelancer's choice to understand better what the client wants however if it’s a web developer 
+working in a company, the project manager’s task would be approaching the client for data and resource which could help the developers achieve the objective better and deliver the product in quality. 
+The most challenging aspect would mostly meeting the client’s requirements and also the time limitations to achieve the required functionalities needed to show the clients but also deliver a quality and efficient website for them.
+
+
+Source/References:
+
+Youtube:
+
+Daily Life of Chris Cordell, Web Developer at Blue Ocean Ideas
+https://www.youtube.com/watch?v=9QBPwQk3Pok
+
+A Day In the Life of A Developer- Reiz Ariva
+https://www.youtube.com/watch?v=3yc5P9fo-OY
+
+A Day in the Life of a Web Developer
+http://www.vault.com/blog/job-search/a-day-in-the-life-of-a-web-developer
+
+Name: Michele Au Yong
+Company: Web Developer for VTH Virtual Timber and Hardware, Timbersmart.
 
 
 IT Technologies
@@ -391,3 +424,23 @@ YouTube. (2018). A Day in the Life of an IT Manager - Meet Todd | Part 1. [onlin
 Nitya’s reflection 
 I think our group cooperated very well with each other by communicating many ideas and splitting the work equally and fairly. We were able to maintain a good contact with each other through Facebook group chat, which allowed us to reflect on our status and discuss what needed to be done to accomplish our set goals for that time. Understanding GitHub was more complicated than I expected, a deeper understanding (as a group) on how it works would’ve been an improvement. What I found surprising is how well the group communication was and how high the agreeableness was amongst each other. Even though we have different personalities we were likeminded and that worked very well in our favour. The other thing I was surprised by was how much information I could find for the sections I was covering, like robots. This assignment has allowed me to broaden my knowledge of the IT world and how it can be impacted in the future, which I find very useful. My group was very understanding and supportive, they were willing to help and were supportive in every way possible. We all gelled very well together. Using GitHub may have been a good way to share information but the better and more efficient way would have been Google Docs, which we also used.
 
+Edward’s Reflection
+Overall I like the group contribution effort that has been allocated to everyone. Communication wise we are all response ready and stable, everyone was able to keep the flow and if anyone needed help someone would always be there to listen and give suggestions on what to do, however we could’ve improve in our working speed in getting most of the work done but overall it was still manageable and personality wise surprisingly the whole group was very energetic and keen to keep the flow of work going, everyone was surprisingly cooperative and positive about the project’s direction. One thing I do like about the groups is the capacity of being able to learn what each individual is capable of and the strength and weaknesses of each member of the team and as a team we can learn to help each other. Github wasn’t exactly the most optimal tool to use for documentation especially unless it’s coding because it does get confusing at one point, where you have to keep merging branch with another remote branch then rebase it and etc, however I wouldn’t recommend it more than anything else unless you’re coding, Google Documents would be a better alternative as you can share your work with your team and they can hop in anytime and work on it.
+
+
+Project Idea
+PPTA(Personal Public Transport Assistant) is a project idea developed by Yen Hai Tran(Anna), it is an application that 
+provides personal assistance to users who relies on public transportation throughout Australia, our aim now is to make their 
+experience more efficient with their planning and more reliable for them which thus would make it less stressful for them 
+if they potentially forget about their plans ahead. The primary function of the application is for user to create a set of reminders when to depart and when to arrive or the time to transit, one of the essential features of this application would be the ‘Reminders’. Many ways to set up reminders. User can set a reminder to the last stop before the destination or the next transit, this allows the user to feel less stressed and relax during the trip to their intended location, however the user will have to press the stop button right after the bus goes to a stop.
+ 
+The application can also set timed and distance reminders before the destination for example (X minutes or X meters before the 
+destination), just enough time before the destination.
+ 
+The application also uses phone GPS to keep track of the user’s location and movement in real time in the background, 
+so that it can calculate the time and distance from the source to the destination, along with the remaining stops along the way and occasionally the application will remind the user how long till the user reaches the destination. In order to improve user experience, by default the application will analyze the trip and automatically 
+suggest a reminder of one stop before the destination, user can choose to turn it off if necessary but otherwise it is recommended to leave it on or set more reminders if necessary. User can also save the trip to a favourites tab which would function at the background along with all the other reminders they have set. They can also sort or rename these trips to however they like.
+Potential project issues that we may come across would be the amount of experience we need to be able to achieve the right competency to get the right results and quality for the application to function as most of our members are still within the basic level of learning Java and Java Scripting thus building a application would be a little bit hard, however with proper research it would possibly 
+take some length time to complete a prototype at least, nevertheless it’s still possible to complete. Another potential problem would be the timeframe of completion for this project, We would estimate a plausible prototype would at least take a span of 4 or 5 weeks depending how much extensive research we could do, but this is with only one feature in. However to achieve all of the features would at least take 14 or 15 weeks of completion but 
+this is including every members time needed alone for their own self research.
+Overall as a team we analyzed the advantages and disadvantages of the project, and weighed out what needs to be implemented as a core feature and what is an extended feature to be able to make a prototype and the end product in time, possible two main features and two extended features would be sufficient as a first project and improve later on for future project developments and start building up our skills as a team to improve the quality of the application to make it user friendly and efficient to use for all users.
