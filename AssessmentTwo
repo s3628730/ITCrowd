@@ -429,18 +429,29 @@ Overall I like the group contribution effort that has been allocated to everyone
 
 
 Project Idea
-PPTA(Personal Public Transport Assistant) is a project idea developed by Yen Hai Tran(Anna), it is an application that 
-provides personal assistance to users who relies on public transportation throughout Australia, our aim now is to make their 
-experience more efficient with their planning and more reliable for them which thus would make it less stressful for them 
-if they potentially forget about their plans ahead. The primary function of the application is for user to create a set of reminders when to depart and when to arrive or the time to transit, one of the essential features of this application would be the ‘Reminders’. Many ways to set up reminders. User can set a reminder to the last stop before the destination or the next transit, this allows the user to feel less stressed and relax during the trip to their intended location, however the user will have to press the stop button right after the bus goes to a stop.
- 
+PPTA(Personal Public Transport Assistant) is a project idea developed by IT Crowd, it is an application that provides personal assistance to users who relies on public transportation throughout Australia, our aim now is to make their experience more efficient with their planning and more reliable for them which thus would make it less stressful for them if they potentially forget about their plans ahead. The problems users face that motivates us is the amount of times people tend to forget about when or where to get to their destination, these problems usually leads users to forgetting to get off at a certain stop or resting in the public transportation which leads to the problem of reaching their destination in time. Thus, motivating us to create an application that is designed to remind the user when will they reach and also it is designed like GPS tracker following the user’s location and movement to keep track on when or where to set off the reminder.
+The primary function of the application is for user to create a set of reminders when to depart and when to arrive or the time to 
+transit, one of the essential features of this application would be the ‘Reminders’. Many ways to set up reminders. 
+User can set a reminder to the last stop before the destination or the next transit, this allows the user to feel less stressed and relax
+during the trip to their intended location, however the user will have to press the stop button right after the bus goes to a stop.
 The application can also set timed and distance reminders before the destination for example (X minutes or X meters before the 
-destination), just enough time before the destination.
- 
-The application also uses phone GPS to keep track of the user’s location and movement in real time in the background, 
-so that it can calculate the time and distance from the source to the destination, along with the remaining stops along the way and occasionally the application will remind the user how long till the user reaches the destination. In order to improve user experience, by default the application will analyze the trip and automatically 
-suggest a reminder of one stop before the destination, user can choose to turn it off if necessary but otherwise it is recommended to leave it on or set more reminders if necessary. User can also save the trip to a favourites tab which would function at the background along with all the other reminders they have set. They can also sort or rename these trips to however they like.
-Potential project issues that we may come across would be the amount of experience we need to be able to achieve the right competency to get the right results and quality for the application to function as most of our members are still within the basic level of learning Java and Java Scripting thus building a application would be a little bit hard, however with proper research it would possibly 
-take some length time to complete a prototype at least, nevertheless it’s still possible to complete. Another potential problem would be the timeframe of completion for this project, We would estimate a plausible prototype would at least take a span of 4 or 5 weeks depending how much extensive research we could do, but this is with only one feature in. However to achieve all of the features would at least take 14 or 15 weeks of completion but 
-this is including every members time needed alone for their own self research.
-Overall as a team we analyzed the advantages and disadvantages of the project, and weighed out what needs to be implemented as a core feature and what is an extended feature to be able to make a prototype and the end product in time, possible two main features and two extended features would be sufficient as a first project and improve later on for future project developments and start building up our skills as a team to improve the quality of the application to make it user friendly and efficient to use for all users.
+destination), just enough time before the destination. The application also uses phone GPS to keep track of the user’s location and 
+movement in real time in the background, so that it can calculate the time and distance from the source to the destination, along with 
+the remaining stops along the way and occasionally the application will remind the user how long till the user reaches the destination.
+In order to improve user experience, by default the application will analyze the trip and automatically suggest a reminder of one stop 
+before the destination, user can choose to turn it off if necessary but otherwise it is recommended to leave it on or set more reminders if necessary. User can also save the trip to a favourites tab which would function at the background along with all the other reminders they have set. They can also sort or rename these trips to however they like.
+Potential project issues that we may come across would be the amount of experience we need to be able to achieve the right competency to
+get the right results and quality for the application to function as most of our members are still within the basic level of learning 
+Java and Java Scripting thus building a application would be a little bit hard, however with proper research it would possibly take some length time to complete a prototype at least, nevertheless it’s still possible to complete. Another potential problem would be the timeframe of completion for this project, We would estimate a plausible prototype would at least take a span of 4 or 5 weeks depending how much extensive research we could do, but this is with only one feature in. However to achieve all of the features would at least take 14 or 15 weeks of completion but this is including every members time needed alone for their own self research.
+Our group will most likely use an android application development program called Android Studio which is a world class code editing, 
+debugging, performance tool and flexible build system which allows an instant build/deploy system all allow you to focus on building 
+unique and high quality application. Our group would mostly also spend time focusing on how to use Android Studio as well as part of our individual research to avoid clashing with any timeline plans made for project development. Other tools we use to communicate and make changes would be Facebook Messenger to keep updates and connect with other group members should they be unavailable to attend to our weekly group meetings. Github is used for updating our coding or documentation that everyone is connected with by making a branch and merge with a pull request to update the project development or documentation.
+
+Overall as a team we analyzed the advantages and disadvantages of the project, and weighed out what needs to be implemented as a core 
+feature and what is an extended feature to be able to make a prototype and the end product in time, possible two main features and two 
+extended features would be sufficient as a first project and improve later on for future project developments and start building up our 
+skills as a team to improve the quality of the application to make it user friendly and efficient to use for all users.
+The whole purpose of the project is to provide the solutions to many of the general public's problems of navigation issues such as
+how most people would be forgetful that they’ll have to leave at X stop or get on X location and move to Y location by a certain time 
+frame, this application’s features are designed for this purpose to help prevent any users to worry less about needing to remember when 
+or where to stop and get on their location. 
