@@ -148,4 +148,116 @@ Date/duration	1 week
 Deliverables	The first versions for iOS and Android
 Resources	Project manager, Front-end engineer, Back-end engineer
 
+Project details
+Phase 1: Requirement gathering/ Analysis
+Analysing users’ current issues and needs
+Conduct user research methods to gather data from the users using public transport by conducting quick surveys on a wide range of users via the social network and direct observation some real users while they are using other navigation apps for traveling by public transport. Our aim is to understand their current issues as well as their needs to ensure that our product application will satisfy true user requirements.
+
+Identify main functionalities of the app
+Base on the user requirements and analysing functionalities of current competitive products (google map, PTV), we conduct group meetings all members to brainstorm a list of major functionalities of the product to enable users to accomplish tasks to reach their goals. Moreover, setting the scope of the project is also determined at this stage to make sure we are always on the right track to create expected deliverables within a tight timeframe.
+
+Outcomes:
+-	Current issues of users using public transport
+•	Don’t know when to get off
+•	Easy to get lost
+
+-	Current needs:
+•	Be reminded of when to get off on time without constantly keeping track of their journey or destination
+•	Have multiple options for setting up the reminders based on time or distance to the destination
+
+-	App functionalities:
+•	Set up reminder for an address
+•	Set up reminders for a journey
+•	Bookmark addresses and journeys
+•	Flexible options for setting up reminders based on time and location
+Phase 2: System requirement 
+This was conducted via group meeting of project manager and technical members to analyse the insight of tools and technologies needed to implement the mobile apps in two versions of iOS and Android. All of hardware, software and licence are listed explicitly to assess and prepare initial resources needed for the project.
+Outcomes: As described in the tools and technologies section.
+Phase 3: Production planning
+As we have requirements and functionalities well defined, the purpose of this stage is breaking down the main functionalities into smaller tasks until they cannot be further subdivided. This makes management of division of work, assignment of human resources and tracking of the project progress easier.
+ 
+
+Phase 4: Initial low fidelity mock ups and wireframe
+In this phase, we focus on defining target user groups, creating personas and context scenarios. Then, proceed creating the key path scenarios together with wireframes to define low fidelity mock-ups for the app. The main point of mock-ups/wireframes is to clarify the project functionalities and shape the design direction. User testing is preferred to start from this stage to make sure the app is on track in the design and business sense. 
+Outcomes:
+
+   
+Phase 5:  UI/UX design (Interaction Prototype)
+At this stage, UX/UI designer will build the interaction prototype of user interface of the app using Sketch and InvisionApp. Prototypes are used to examine how users interact with the app, to reveal usability problems and find out whether the implemented functionalities have been meeting the users’ requirements or not. At this point, we start a cycle of usability testing and fixing by conducting user testing with the real users on the prototype and observation of how they react, how many issues they meet, how quickly they can perform their tasks, then create a new improved prototype and start the process again. 
+Phase 6:  Software development
+Descriptions of task implementations
+Task 	Front End deliverables	Back End deliverables
+Search for an address (1.1)
+	o	Display a map with location where the user currently is	o	Access and load maps data from Google Maps API
+	o	Display search bar for user to enter an address	o	Capture data input and send to Google Maps API to search for the location
+Bookmark addresses (3.1)	o	Display a Save button allowing the user to bookmark an address	o	Save the address to database
+Set reminder for an address (1.2)	o	Display Reminder button allowing the user to set up reminder to the destination	o	Wait for user input
+Set up reminder: Option 1: 
+Auto (2nd last stop)
+(4.1)
+	o	When user click Reminder button, display options for user to select reminder modes:
+	Option 1: When reaching the second last stop before transit stops or destination 	o	Capture the user selection for reminder mode and analysing the route accordingly.
+	Option 1: Analyse the route and return a list of second last stops before the transit stops or destination
+Set up reminder: Option 2: Location based (4.2)		Option 2: When reaching X metres to transit stops or destination 
+
+		Option 2: Analyse the route and return a list of points with distance X to the transit stops and the destination
+Set up reminder: Option 3: Time based 
+(4.3)		Option 3: When reaching X minutes to transit stops or destination		Option 3: Analyse the route and return a list of the transit stops and the destination, which will be used to dynamically calculate the points having X minutes to reach them 
+Keep track of user location (1.3)
+	o	Display the current location of the user along the route in the map (1.3)
+
+
+	o	Start keeping track of the user location in real time using the phone GPS tracking function
+o	Continuously compare the current location of the user with the destination address
+Trigger notification on the address (1.4)
+	o	Display a notification to the screen and a sound when a reminder is triggered from the back end (1.4)
+	o	For option 1 and option 2, when the user reaches a point in the list, a notification will be trigger. For option 3, dynamically calculate the time to the points in the list based on the current distance and the current speed and trigger a notification when the time selected to reach the points is met.
+
+
+Task	Front End deliverables	Back End deliverables
+Plan a journey (2.1)
+	o	Display a map with location where the user currently is	o	Access and load maps data from Google Maps API
+	o	Display search bar for user to enter departure location (default is the current location) and destination location	o	Capture data input and send to Google Maps API to search for the locations 
+
+	o	Acknowledge and confirm locations selected by user	o	Get back the results of the locations from Google Maps API to display in front end
+	o	Display a Direction button allowing the user to plan a journey from the origin to the destination	o	Send request for routing using public transport from the origin to destination to Google Maps API and get back the route options
+	o	Display a list of route options by public transport for the journey	o	Wait for user to select a route option
+
+	o	User to select a route option for the journey	o	Send request to Google Maps API to get all the details for the route option selected by the user, including all the stops
+o	Analyse the route and note down the second last stop of the journey and those 
+Bookmark journeys (3.2)
+	o	Display a Save button on each journey allowing the user to bookmark the journey	o	Save the address to database
+Set reminders for a journey (2.2)	o	Display Reminder button on each journey allowing the user to set up reminder for the journey	o	Wait for user input
+Set up reminder: Option 1: 
+Auto (2nd last stop)
+(4.1)
+	o	Display an option for user to select reminder modes:
+	Option 1: When reaching the second last stop before transit stops or destination
+
+	o	Capture the user selection for reminder mode and analysing the route accordingly.
+	Option 1: Analyse the route and return a list of second last stops before the transit stops or destination
+Set up reminder: Option 2: Location based (4.2)		Option 2: When reaching X metres to transit stops or destination 
+		Option 2: Analyse the route and return a list of points with distance X to the transit stops and the destination
+Set up reminder: Option 3: Time based 
+(4.3)		Option 3: When reaching X minutes to transit stops or destination
+
+
+		Option 3: Analyse the route and return a list of the transit stops and the destination, which will be used to dynamically calculate the points having X minutes to reach them 
+Keep track of user locations (2.3)
+
+	o	User confirm the selection on the journey	o	Store the reminder list in the background for keeping track of the journey and triggering reminders later
+
+	o	Start the journey with the selected route and reminder option	o	Start keeping track of the user location in real time using the phone GPS tracking function
+	o	Display the current location of the user along the route in the map	o	Continuously compare the current location of the user with the points in the reminder list generated in the previous step.
+Trigger notifications on the journey (2.4)
+	o	Display a notification to the screen and a sound when a reminder is triggered from the back end
+	o	For option 1 and option 2, when the user reaches a point in the list, a notification will be trigger. For option 3, dynamically calculate the time to the points in the list based on the current distance and the current speed and trigger a notification when the time selected to reach the points is met.
+
+Phase 7:  Software testing
+In this stage, the app is tested before it is delivered to target users. During the software testing phase, the testers aim to find errors or bugs that need to be resolved within the app as well as verifying whether the app behaves as expected or not to make amendments if necessary. Once issues are found, testers inform the developers about the details of the issues to be fixed and the fixed bugs will be updated in the latest version. This cycle is repeated until all requirements have been tested and all the bugs have been fixed and the software is ready to be shipped.
+Phase 8: Beta testing
+In this stage, all bugs and errors are supposed to be fixed from the software testing phase. Beta testing is carried out by beta users of the app in the real environment which help us to get the insight of how users are using the apps. This stage is the crucial step to find the usability issues as well as unforeseen errors of the apps to create a high-quality products or services which meet user requirements.
+We aim to find about as many beta testers as possible via both online and offline sources such as social media (Facebook, Twitter), forums and communities (Quora, Reddit) and personal contacts. Any bugs and usability issues found will be fixed or adjusted and updated, to prepare for the first version of the app.
+Phase 9: Launch
+As all bugs fixed and all usability issues resolved, the first versions of the app are released on App store for iOS, and Google Play for Android.
 
