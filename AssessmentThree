@@ -78,3 +78,74 @@ Machine Learning Frameworks (TensorFlow)
 
 To compare and contrast the variety of roles we have inside our group, the information needs to be split into two sections; soft skills, and technical skills. 
 In the soft skills section, there is a big commonality, and some differences. The main commonality we see is that all the IT based roles in our group share the same soft skills as each other, leaving psychology as an outlier. Although Psychology is an outlier, it does share the most important soft skill which is communication. Communication plays a vital role in almost any job so it is not surprising to see it high on both lists. But outside of that psychology’s values of ethics and patience whilst still very important skills do not rank as high in the IT world. This is likely due to the nature of the work undertaken, whilst both roles involve communication, psychology focuses on one-on-one human interaction of a personal nature, whereas IT involves collaboration from a team to solve technical problems in an organised manner.
+
+Project Description 
+
+Plans and Progress
+
+Project overview
+
+Phase 1	Project setup
+Main tasks	Requirement gathering/ Analysis
+Date/duration	2 weeks
+Deliverables	User requirements
+Aim and goals
+Functional requirements
+Resources	Project manager, all team members
+
+Phase 2	System analysis
+Main tasks	Analyse tools & technologies
+Date/duration	1 weeks
+Deliverables	Frond-end tools
+Back-end tools
+Design tools
+Resources	Project manager, Front-end engineer, Back-end engineer
+
+Phase 3	Production planning
+Main tasks	Break down main functionalities & assign resources
+Date/duration	2 weeks
+Deliverables	Scope, detail functionality, resources
+Resources	Project manager, all team members
+
+
+Phase 4	Initial UI/UX design
+Main tasks	Low-fidelity UI/UX design and wireframe
+Date/duration	1 weeks
+Deliverables	User groups, Personas, Context scenarios, Key path scenarios & wireframes
+Resources	Project manager, Business Analyst, UX designer
+
+Phase 5	Prototype design
+Main tasks	High fidelity UI/UX design (interaction prototype)
+Date/duration	2 weeks
+Deliverables	User groups, Personas, Context scenarios, Key path scenarios & wireframes
+Resources	Project manager, Business Analyst, UX designer
+
+
+Phase 6	Software development
+Main tasks	Coding
+Date/duration	4 weeks
+Deliverables	Plan a journey module 
+Set reminder module 
+Trigger reminder module
+Bookmarks manager module
+Resources	Project manager, Front-end engineer, Back-end engineer
+
+Phase 7	Testing & debugging
+Main tasks	Functional testing, System integration testing, Usability testing, Performance testing and debugging
+Date/duration	2 weeks
+Deliverables	App is fully tested in all aspects
+Resources	Project manager, QA engineer and Testers, Front-end engineer, Back-end engineer
+
+Phase 8	Beta testing
+Main tasks	Launch the beta testing version of the app via HOCKEYAPP, the popular beta distribution platform for both iOS and Android
+Date/duration	1 week
+Deliverables	Beta testing versions for iOS and Android
+Resources	Project manager, Front-end engineer, Back-end engineer, QA engineer & Tester
+
+Phase 9	Launch
+Main tasks	Launch the first versions of the app on the App store for iOS, and the Google Play store for Android 
+Date/duration	1 week
+Deliverables	The first versions for iOS and Android
+Resources	Project manager, Front-end engineer, Back-end engineer
+
+
