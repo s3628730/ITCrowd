@@ -92,6 +92,65 @@ To compare and contrast the variety of roles we have inside our group, the infor
 In the soft skills section, there is a big commonality, and some differences. The main commonality we see is that all the IT based roles in our group share the same soft skills as each other, leaving psychology as an outlier. Although Psychology is an outlier, it does share the most important soft skill which is communication. Communication plays a vital role in almost any job so it is not surprising to see it high on both lists. But outside of that psychology’s values of ethics and patience whilst still very important skills do not rank as high in the IT world. This is likely due to the nature of the work undertaken, whilst both roles involve communication, psychology focuses on one-on-one human interaction of a personal nature, whereas IT involves collaboration from a team to solve technical problems in an organised manner.
 
 Project Description 
+The members of  The IT Crowd come from many different backgrounds and interests like sports, reading and dancing that very clearly 
+lead to different careers paths. But what brings us all together is the interest in IT. We all have an interest in IT from exploring 
+and admiring current technologies to wondering what it could become in the future. IT is so vast that it could come under and benefit 
+any career, like, changing the way you watch AFL and how the score is collected, creating a more smart way of reading with many 
+creative devices. 
+
+The members of the group are not highly skilled in IT and have significant experience but are very keen to learn more about how to 
+carry out this project and from there develop the skills along with it. The skills required to learn would mostly be software 
+languages, this will then allow each member of the group to further on use it in the future with developing apps or other potential 
+projects related to their career path. 
+
+This Project is called PTA ( public transport assistant. It is a mobile application for both Android and iOS designed for the 
+public of Australia who use public transport. This application is designed to make the user experience easier and less stressful 
+to understand the roads and destinations, more importantly when they have reached their destination. The purpose of this application 
+is to allow ease the traveling experience by allowing the user to input data such has how much time before the destination they want 
+to get a reminder and how many meters before the destination do they want to get a reminder. This will clarify and prepare the users 
+to get of at their wanted stop without any hesitation and time wastage from arriving to the wrong stop. 
+
+This seemed like an interesting idea to the group because most of us are not originally from Melbourne, and getting around the place 
+can be hard as it gets nerve wracking if we end up in the wrong place, making journey stress free is something worth trying especially
+because we most of us have just started uni and need to know how to get around the place. 
+
+For Android this application will be coded (back end) using java and the IDE would be Android Studio as they are most compatible,
+easy and the members of the group are comfortable with understanding and developing a software using these languages. 
+Android Studio is good medium to run its debugging feature and compatible with implementing java. For iOS on the other hand the 
+language that is going to be used is Swift and the IDE would be XCode, again with its compatibility with iOS and each other. 
+With everyone’s background in IT is it important to mention that there would be a requirement for more research into learning and 
+understanding the softwares.     
+
+This application would have a very important feature of using GPS in order for it to be connected to the roads and destination 
+of Australia and provide data to the application. There will also be a GPS tracker with will know the users location at all 
+times to provide accurate data so the application is able to calculate the distance and time for the users arrival and when it's 
+most accurate for the reminder alarm to buzz off.  
+
+There is a very high potential of growth with this project, with the current popularity and highly trending Virtual assistance, 
+there could possibly be an assistant guiding the user through the streets, not just providing them information on the streets but
+potentially the history of the destination, what's it famous for and other information that may be significant, especially to tourists 
+or people who are new to Australia. This is also an example of  when the parts of this project can be incorporated with our passion,
+getting to know the place and the history of the place just by typing down your history, and another passion related to this could be,
+photography, having amazing pictures for the destinations. 
+
+Aims 
+Our aim is intended to not just those who use public transport on a daily basis, but especially to the users who use public transport 
+to get to new places and dont understand how to get there. This could be tourists or new comers who are still figuring out the country 
+and or locals who already know their way around the country, because let's face it, there is no way of actually knowing every part of 
+the country, there is assistance required. 
+Being able to achieve a stressless journey can be a difficult thing especially when you don't know when your stop is coming or how far 
+you are from the destination. This is why PTA aims to relax its users and give them a peace of mind by providing them the feature of 
+a reminder  X minutes and X distance before their destination. This will result in the user's satisfaction and allowing them to 
+concentrate on other things other than their journey like socialising and maybe even working during that time.
+
+This project will be carried out in different phases starting with research, requirements and technology needed, planning the roles, 
+designing, software developing, testing and then launching. This will allow the project to be carried out and flow in a very organised
+and calculated way, decreasing room for error. The roles would be split according to skills and personality, which we figure out from 
+the personality test we did in assignment 1.
+
+If the aims and goals are not met then there would be more research done as to what the errors are and how to fix them, this could 
+take up more time therefore the worst thing that could happen is if the timeline changes and the length of the launch time increases 
+delaying the whole process. 
 
 Plans and Progress
 
@@ -279,6 +338,53 @@ We aim to find about as many beta testers as possible via both online and offlin
 Phase 9: Launch
 As all bugs fixed and all usability issues resolved, the first versions of the app are released on App store for iOS, and Google Play for Android.
 
+Roles 
+The roles have been distributed according the skills required, personal interest and the best fit personality. 
+
+Project manager - Patrick (phase 3)
+Patrick will be responsible for the whole project; the success and failure and the end product would reflect on him. 
+His role includes him to be able to plan, execute and close projects as well as managing his entire team. From the 
+Myers-Briggs personality tests in Assignment 1, Patrick is a Executive making him and extrovert with good sensory, a 
+thinker and has good judgment. These qualities are very crucial for becoming a leader and guiding the group. Being sensory 
+can help with him being able to understand expectations and coming up with ways to manage them. This is the best fit for Patrick. 
+
+Front end developer -Swee Kim Au Yong (phase 5)
+Front end developer is more of how the application looks, how its created and laid out. This is creating the 
+application itself. The necessary skills to this would by knowing the language itself, which Swee Kim does as he has the
+skill set of an individual who has completed an IT diploma.
+
+Back end developer - Yen Hai Tran (phase 6)
+Back end developers are the programmers that code the logical core computational functions and features of the 
+application. Yen Hai Trans job is to be able to code the data to the app and that requires the heaviest amount of programming. This is a perfect time for an as she is the most skilled and has done or programs and creates applications as a hobby. She is someone who can get this job done quickly, effectively and efficiently. 
+
+Debugger - Nitya (phase 6)
+Debugging is a process in computer programming that identifies the problem, separates it and the either solves the 
+problem or figures out a way and suggests a way for it to be solved. Then finally it is tested after the corrections.We are using the software Android Studio which enables a great amount of debugging. Debugging for Nitya is more out of interest and skill than personality, it is because of its potential and how much this skill of using the softwares can help in the future and with technologies to come. This is a necessary skill for software development and programming, Nitya’s ideal job of an AI engineer requires just that. 
+
+Tester - Hawa (phase 7)
+Hawas responsibilities include assurance that the software works with every feature of the application and then report 
+back to the development team with the results. These are usually done manually which means that she needs to be assessing the code. 
+
+Testing: nitya
+
+Software Testing:
+This occurs in phase 7: the process will run on a constant loop of developing the software, debugging it, testing it for any errors, testing the program and fixing the issues until everything operates normally. 
+
+Beta testing:
+There are many methods available to be able to test this application and see if its able to fulfil users requirements and ease their journey as the aim says. The bases of any of the testing methods is to assemble a target audience of regular public transport users, who only need public transport to get to one destination and back daily and new comers who need public transport to go to various new locations and require more assistance to make them less nervous. Although the regular travelers may need it this app high emphasis and requires data back from the newcomers. Starting with ratings, after the users have finished their trip and arrived at their destinations by using the application and its features, the application can come up with 5 starts and ask the users how they would rate the ease of the journey. That could provide feedback from many users and more regularly. What would provide more insight on how the application is working and how the user experience is going is by having a pop up survey and questionnaire asking the users about their experience, accuracy, if they would recommend the app to their friends and and most importantly how can it be improved. 
+These tests usually occurs during the time the application is already exposed to the market and up and running, or when there needs to be an update so for further research. The testing method that is required before making the application public is to gather a set of people (preferably 30-50) that fit the category of the newcomers target audience and for them to use this application of a week and give a daily review on how the application is working. This includes reviews about: 
+calculation accuracy
+glitches
+how many hours they used the application 
+how important the application was to them 
+If they could have used another application or go without this one
+How is the design and if it's able to maximise the main purpose of this application
+What are the improvements
+What are the problems 
+What can be changed
+This will allow us as a group to work on it and make the final product user friendly. Another branch of the same testing method could be asking some of the users to use another application such as PTV or Google Maps and compare the two with those set of questions. Ofcourse the set of people may not work for free, which is why we would need to be open to spending some money and trusting the fact that the reviews and reports are helpful. We could gather the target audience by asking the people we know and and telling them to pass it on, asking tourist in public spots like the airport to help out or advertise this position on social media (but its most likely going cost money for individuals to agree)  
+
+
 Group Reflections
 
 Hawa's reflection
@@ -288,3 +394,12 @@ Something that we could have improved on is our time management.
 As previously stated in group processes, time management is a feature that we could improve to ensure that we are working at our best. 
 What surprised me when completing this assignment was how much easier it was to complete the workload.
 Working on the previous assignments showed me what was required of me and this knowledge assisted me in the completion of this assignment. 
+
+Nitya’s reflection
+Working with the IT Crowd has been more than a pleasure because they are nothing but supportive and efficient. The parts were equally divided and done effectively with detail. 
+After  working on Assignment 2 together we realized each others working style and split each others parts accordingly. This helped the work do get done sooner and with more ease. 
+With our ideas collectively being similar and a good understanding of the project idea we could trust each other with the information from each of their sections and proceed with our sections. 
+This assignment was  not too challenging, due to our communication and understanding of the project. We communicated the same way as we did from our last assignment and that's using the facebook group 
+chat and what surprised me was that each of us was getting the hang of github more which again, made the assignment and the experience overall straight forward and trouble free.  
+
+
