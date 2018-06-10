@@ -386,6 +386,36 @@ We aim to find about as many beta testers as possible via both online and offlin
 Phase 9: Launch
 As all bugs fixed and all usability issues resolved, the first versions of the app are released on App store for iOS, and Google Play for Android.
 
+Scope and Limits
+This project is about creating a personal assistant for public transport commuters, that provides users a better experience of using public transports by reminding them when it is time to transfer in their journey or get off at the destination, all without constantly keeping track of their journey.
+Firstly, the project will focus on the basic functionality for helping user set reminder for any destination by simply searching for the destination and setting reminder for it based on time or distance to the destination.
+Secondly, the project will expand the basic function with the ability to plan a journey and set reminders for the journey, which will include capacity to trigger notifications when it’s time to transit or get off to reach the destination.
+Lastly, the project will deploy an extra function allowing users to bookmark or save their favourite journey or destinations for effectively using reminder functions mentioned above.
+Out of Scope (to be considered in the future)
+At this stage, the project will not provide an alternative way for interaction between users and the app via voice commands, giving users more control when using the app as well as make it is accessible to users with low vision.
+The app uses Google map API only for searching for addresses and planning journeys, that it will use for analysing stops and setting reminders. It does not, however, include other features of Google maps such as offline maps, nearby locations, navigation mode or satellite view...
+The app also does not display traffic condition on the map and will not take these conditions into account when making decision of triggering reminders.
+The app support bookmarks of favourite destinations and journeys, but it does not support backing up these bookmarks to the cloud or synchronisation between devices 
+Tools and Technologies
+We plan to develop the application for both Android and iOS platform, to reach as many users as possible. For Android, we use Android Studio as the development tool for both back end and front end. For iOS, we use XCode for both back end and front end. Once finished, the app will be deployed to Google Play and Apple App Store.
+Technologies: For public transport information and search function, we use Google Maps Services API, and for speech-to-text and text-to-speech feature we use the Google Cloud Speech API.
+For designing the UI/UX of the app, we use Sketch and Invision App for mockups, wireframes and prototypes.
+For hardware, we plan to use a Samsung Galaxy S8 for testing the Android version, and an iPhone 6S for testing the iOS version.
+All the team members have not had experience developing mobile applications before, but we are all keen to learn all these tools and technologies and apply the knowledge to the project.
+Section	Android Version	iOS Version
+	Software or Tools	License Needed	Software or Tools	License Needed
+UI / UX Design	Mockup and Wireframes: Sketch
+Prototype: InvisionApp	Yes	Mockup and Wireframes: Sketch
+Prototype: InvisionApp	Yes
+Frontend	Android Studio	No	XCode	No
+Backend	Languages: Java
+IDE: Android Studio	No	Languages: Swift
+IDE: XCode	No
+API	Google Maps Services API
+Google Cloud Speech API	Yes	Google Maps Services API
+Google Cloud Speech API	Yes
+
+
 Roles 
 The roles have been distributed according the skills required, personal interest and the best fit personality. 
 
@@ -449,5 +479,8 @@ After  working on Assignment 2 together we realized each others working style an
 With our ideas collectively being similar and a good understanding of the project idea we could trust each other with the information from each of their sections and proceed with our sections. 
 This assignment was  not too challenging, due to our communication and understanding of the project. We communicated the same way as we did from our last assignment and that's using the facebook group 
 chat and what surprised me was that each of us was getting the hang of github more which again, made the assignment and the experience overall straight forward and trouble free.  
+
+Anna’s Reflection
+One of the things that I think we did well is we have had a clear plan right from the beginning. We organised the group meeting twice in the first two weeks of the assignment to work on the project planning and task division. Therefore, we all knew what we had to do and when the tasks need to be done. Planning helped us work well on the project by strictly follow the time frame and constantly communicate with each other via group meeting and online group chatting. One thing I have learned in the project work is communication is very important, it determines the success of our project. As we all must work closely in every stage of the project for updating the progress, sharing ideas and quickly solving unexpected issues that are likely to be happened to finish the project on time. Another thing I have learnt is everyone has different strengths and weaknesses, so if we took these aspects into account to assign a suitable role for each team member, the project could have been finished earlier and more smoothly. One thing that surprised me is the project was very difficult at the first stages, but the more effort and contribution we put into it, the easier it became in the latter stages. I think using GitHub and Google docs really helped us save a lot of time in keeping track of the progress of the project and document management, so we had more time to focus on the project work as well as have more control on logging, tracking, revising or undo the project document when necessary.
 
 
